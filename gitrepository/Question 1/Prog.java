@@ -1,6 +1,7 @@
 public class Prog {
     private static String firstname="Shruti",lastname="Jain";
     private static int age=22;
+    
 
     static{
         System.out.println("Static block");
